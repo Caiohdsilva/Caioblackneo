@@ -1,4 +1,4 @@
-- 👋🏾 Olá, meu nome é Caio Henrique. Sou estudando de programação com foco em desenvolvimento web front-end.
+- 👋🏾 Olá, meu nome é Caio Henrique. Sou estudante de programação com foco em desenvolvimento web front-end.
 - 👨🏾‍💻 Meu foco de estudo atualemnte é: HTML5, JavaScript, CSS3 e Phyton
 
 <!---
